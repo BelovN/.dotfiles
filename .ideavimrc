@@ -14,8 +14,6 @@ map Q gq
 :nnoremap K :action PreviousTab<CR>
 :nnoremap J :action NextTab<CR>
 
-" Insert after word
-:nnoremap I ea
 
 " To fast jumps
 :set relativenumber
