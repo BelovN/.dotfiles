@@ -1,3 +1,11 @@
+# Install
+
+```bash
+sudo apt install -y git zsh vim curl
+git clone https://github.com/BelovN/.dotfiles ~/.dotfiles
+~/.dotfiles/install.sh
+```
+
 # Installed packages
 
 - aptitude - terminal-based package manager
